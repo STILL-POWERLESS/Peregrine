@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'peregrine' target in the 'peregrine' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
